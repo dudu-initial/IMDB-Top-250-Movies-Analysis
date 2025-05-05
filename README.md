@@ -15,7 +15,6 @@ Este projeto consiste em uma análise exploratória dos 250 filmes mais bem aval
 
 - `IMDb_Top_250_Analysis.ipynb`: notebook principal com toda a análise e visualizações.
 - `imdb_top_250.csv`: arquivo com os dados dos filmes (ou link para a fonte, se for scrape).
-- `imgs/`: pasta com capturas de gráficos (opcional).
 - `README.md`: documentação do projeto.
 
 ## Tecnologias Utilizadas
