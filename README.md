@@ -44,13 +44,19 @@ Ou manualmente:
 
 - Aqui estão algumas visualizações produzidas no projeto:
 
-1. Quantos filmes foram lançados por década?
-2. Qual o filme mais antigo e o mais recente?
-3. Qual é o filme com a maior nota?
-4. Existe uma relação entre a duração do filme e sua nota?
-5. Qual é a distribuição dos filmes por ano?
-6. Os filmes mais antigos são melhor avaliados que os recentes?
-7. Existem filmes muito longos na lista?
+1. Quantos filmes foram lançados por década?<br>![image](https://github.com/user-attachments/assets/0475cf2a-05cf-4279-91c3-b98d6b5bf871)
+
+2. Qual o filme mais antigo e o mais recente?<br> ![image](https://github.com/user-attachments/assets/fba45754-dec3-4b77-b154-04a634e801e2)
+
+3. Qual é o filme com a maior nota?<br> ![image](https://github.com/user-attachments/assets/8efa8dda-2a64-48a8-86b8-5eefc98ab9c0)
+
+4. Existe uma relação entre a duração do filme e sua nota?<br> ![image](https://github.com/user-attachments/assets/44c2b932-3af5-4f14-92df-ea6e7da08ed0)
+
+5. Qual é a distribuição dos filmes por ano?<br> ![image](https://github.com/user-attachments/assets/5532bc94-f2b9-4991-b5e8-ae33f1969ab7)
+
+6. Os filmes mais antigos são melhor avaliados que os recentes?<br> ![image](https://github.com/user-attachments/assets/6035bf99-2016-46b9-b35b-60fac8c1c3d5)
+
+7. Existem filmes muito longos na lista?<br> ![image](https://github.com/user-attachments/assets/8ee85a38-c040-4f59-ab54-d3532efc6b36)
 
 # Conclusões: 
 
